@@ -1,0 +1,14 @@
+Project on Has-A relationship
+----------------------------
+
+1.	Open eclipse and create a java project name
+		Customer Relationship Management(CRM)
+2.	Create a package AppUsers
+3. 	Write a class for Address
+		className : Address
+		Attributes : identify by yourself
+		Make use of java bean class structure
+4.	class for customer
+		className : Customer
+		Attributes: Identify by yourself
+		"Customer has a address"
